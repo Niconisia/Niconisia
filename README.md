@@ -19,7 +19,7 @@ Prazer, eu sou um estudante Brasileiro que tem muito interesse em entrar no mund
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img height= "35" src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
 
   
-  <img align="right" alt="Nico-pic" height="150" style="border-radius:50px;" src="https://github.com/Niconisia/Niconisia/blob/main/Nicolas.gif">
+  <img align="right" alt="Nico-pic" height="150" style="border-radius:50px;" src="https://github.com/Niconisia/Niconisia/blob/main/Powder.jpg">
 </div>
 
   
