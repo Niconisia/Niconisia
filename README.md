@@ -1,7 +1,8 @@
-### Olá! Nicolas Rodrigues aqui, 👋
+# Olá! Nicolas Rodrigues aqui, 👋
 
-- 🌱 Estudando Python e querendo evoluir muito em Html, Css, Javascript.
+Prazer, eu sou um estudante Brasileiro que tem muito interesse em entrar no mundo da programação e design, atualmente faço curso técnico, então tenho um breve conhecimento, mas, com a ajuda do técnico pretendo me aprimorar mais e mais. Ah, claro, no meu tempo livre gosto muito de assistir, principalmente animações, sejam elas filmes, animes, passar um tempo com meu cachorro e claro, sempre tentar ver alguma coisinha de Python que é meu foco no momento.
 
+#
 
 <div align="center">
   <a href="https://github.com/Niconisia">
@@ -9,7 +10,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niconisia&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
+## 🖥 Tecnologias que estou a aprender no momento 🖥
 </div>
+
 <div style="display: inline_block"><br>
 <a href="https://www.javascript.com/"><img height= "35" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="https://www.python.org/"><img height= "35" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
@@ -20,7 +23,8 @@
   <img align="right" alt="Nico-pic" height="150" style="border-radius:50px;" src="https://github.com/Niconisia/Niconisia/blob/main/Nicolas.gif">
 </div>
 
-  ##
+  
+  ## 📧 Principais meios de contato 📧
   
   <div> 
   <a href="https://www.instagram.com/nico.sdriguez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
