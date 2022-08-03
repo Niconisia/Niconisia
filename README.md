@@ -44,5 +44,7 @@ Tenho de insistir, a caminhada parece díficil e realmente ela é, porém tenho 
   <p align="center">
 - Para Você: Nicolas -
 </p>
+
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-KaioPostal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/kaiopostal/)
  
  
