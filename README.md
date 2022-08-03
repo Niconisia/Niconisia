@@ -34,7 +34,7 @@ Prazer, eu sou um estudante Brasileiro que tem muito interesse em entrar no mund
   ##
   
  <p align="center">
-    <img src="https://github.com/Niconisia/Niconisia/blob/main/Powder.giff" width="100%" height="100%"/>
+    <img src="https://github.com/Niconisia/Niconisia/blob/main/Powder.gif" width="100%" height="100%"/>
 </p>
 
   <p align="center">
