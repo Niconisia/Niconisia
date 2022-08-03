@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/Niconisia">
-  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Niconisia&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niconisia&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Niconisia&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niconisia&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 </div>
@@ -17,7 +17,7 @@
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img height= "35" src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
 
   
-  <img align="right" alt="Nico-pic" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="Nico-pic" height="150" style="border-radius:50px;" src="https://github.com/Niconisia/Niconisia/blob/main/Nicolas.gif">
 </div>
 
   ##
