@@ -4,7 +4,7 @@ Prazer, eu sou um estudante Brasileiro que tem muito interesse em entrar no mund
 
 #
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Niconisia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niconisia&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
  =
