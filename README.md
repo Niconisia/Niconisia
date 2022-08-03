@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/Niconisia">
-  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Niconisia&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niconisia&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niconisia&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niconisia&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 </div>
@@ -27,5 +27,19 @@
  <a href="http://discord.com/users/874393713655283772" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ##
+  
+ <p align="center">
+    <img src="https://github.com/Niconisia/Niconisia/blob/main/Midnight-City.gif" width="100%" height="100%"/>
+</p>
+
+  <p align="center">
+Tenho de insistir, a caminhada parece díficil e realmente ela é, porém tenho fé que irei alcançar meus objetivos e meus sonhos, então, apenas não irei desistir. :)
+</p>
+
+  <p align="center">
+- Para Você: Nicolas -
+</p>
  
  
